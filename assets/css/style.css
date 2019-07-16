@@ -3,7 +3,13 @@
     box-sizing: border-box;
     font-family: 'Squada One', cursive;
 }
-
+#body {
+    background: url("../images/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}    
 #character-search {
     margin: 20px 20px 20px 20px;
 }
